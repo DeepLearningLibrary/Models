@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  9 14:40:01 2021
-
-@author: Grant
-"""
-
 import argparse
 import glob
 import json

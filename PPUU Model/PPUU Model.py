@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  9 14:33:36 2021
-
-@author: Grant
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
